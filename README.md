@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh010102
-- 👀 I’m interested in 5th sem 
-- 🌱 I’m currently learning AI and we dev
+- 👀 I’m  in 5th sem  of my Undergraduate Engineering degree
+- 🌱 I’m currently learning AI and web dev
 - 💞️ I’m looking to collaborate on various projects inrealted fields
 - 📫 How to reach me on hrshprkh112@gmail.com
 
