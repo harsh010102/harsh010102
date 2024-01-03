@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Parikh</h1>
 <h3 align="center">I’m a Visiting Research Fellow at the Max Planck Institute for Software Systems (MPI-SWS).</h3>
-<img  align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*bmIKjlm7-ZGOm-CI.gif"/>
+<img  align="right" alt="Coding" width="400" src="https://cefic.org/app/uploads/2021/05/ChemistryCan-GoingClimate-Neutral-800x450-1.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh010102&label=Profile%20views&color=0e75b6&style=flat" alt="harsh010102" /> </p>
 
 - 🔭 I’m currently working on [Satellite-Data-Augmentation Project](https://github.com/iamMihirT/Satellite-Data-Pipeline)
