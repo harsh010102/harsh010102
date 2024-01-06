@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Climate Triage](https://climatetriage.com/)
 
-- 📝 I regularly write articles on [https://harsh010102.github.io/-.//year-archive/](https://harsh010102.github.io/-.//year-archive/)
+- 📝 I regularly write articles on [Here✒️](https://harsh010102.github.io/-.//year-archive/)
 
 - 💬 Ask me about **Full-stack development, Climate-tech open-source, Product management**
 
