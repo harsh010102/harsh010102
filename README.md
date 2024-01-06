@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hrshprkh112@gmail.com**
 
-- 📄 Know about my experiences [https://harsh010102.github.io/-.//files/ParikhHarshCV.pdf](https://harsh010102.github.io/-.//files/ParikhHarshCV.pdf)
+- 📄 Know about my [👷🏽 experiences](https://harsh010102.github.io/-.//files/ParikhHarshCV.pdf)
 
 - ⚡ Fun fact **I have research experiences in 3 countries as a undergrad.**
 
